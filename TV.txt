@@ -71,6 +71,7 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+FASHIONTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b6128000_t64MTA4MHA=.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
@@ -82,3 +83,19 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 醇享超清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline01
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline02
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline03
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline04
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline05
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=txline06
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=txline07
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=txline08
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=txline09
+NBA,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=txline10
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline01
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline02
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline03
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline04
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline05
+足球,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline06
