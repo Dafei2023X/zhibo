@@ -38,7 +38,7 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353
 天津影视,rtp://225.1.1.149:5002,TimeShift="1",TimeShiftLength="7200",ChannelSDP="rtp://225.1.1.149:5002",TimeShiftURL="rtsp://10.1.69.222/PLTV/88888888/224/3221225727/10000100000000060000000000386274_0.smil
 天津都市,rtp://225.1.1.128:5002,TimeShift="1",TimeShiftLength="7200",ChannelSDP="rtp://225.1.1.128:5002",TimeShiftURL="rtsp://10.1.69.222/PLTV/88888888/224/3221225755/10000100000000060000000000472798_0.smil
 天津体育,rtp://225.1.1.122:5002,TimeShift="1",TimeShiftLength="7200",ChannelSDP="rtp://225.1.1.122:5002",TimeShiftURL="rtsp://10.1.69.222/PLTV/88888888/224/3221225714/10000100000000060000000000327833_0.smil
-天津科教,rtp://225.1.1.129:5002,TimeShift="1",TimeShiftLength="7200",ChannelSDP="rtp://225.1.1.129:5002",TimeShiftURL="rtsp://10.1.69.222/PLTV/88888888/224/3221225752/10000100000000060000000000819345_0.smil
+天津科教,rtp://225.1.1.129:5002,TimeShift="1",TimeShiftLength="7200",ChannelSDP="rtp://225.1.1.129:5002",TimeShiftURL="rtsp://10.1.69.222/PLTV/88888888/224/3221225752/10000100000000060000000000819345_0.smil?rrsip=10.1.57.147&zoneoffset=480&icpid=5&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
