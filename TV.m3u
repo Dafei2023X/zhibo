@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
@@ -177,6 +177,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,MTV
 https://epg.pw/stream/b225fdcf0050194d6cea0ad06fe38f5cb6652414888305f74742b0112d66aba6.ctv
+#EXTINF:-1,tvg-id="Channel [V]" tvg-name="Channel [V]" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="其他",Channel [V]
+http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-01
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline01
 #EXTINF:-1 tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-02
