@@ -66,7 +66,7 @@ http://192.168.2.1:4022/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CHC动作电影.png",CHC动作电影
 http://192.168.2.1:4022/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/天津卫视.png",天津卫视
-http://192.168.2.1:4022/udp/225.1.1.111:5002
+http://192.168.2.1:4022/udp/225.1.1.111:5002/TVOD/88888888/224/3221225626/10000100000000060000000000144489
 #EXTINF:-1 tvg-logo="http://epg.v1.mk/logo/天津新闻.png",天津新闻
 http://192.168.2.1:4022/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-logo="http://epg.v1.mk/logo/天津文艺.png",天津文艺
