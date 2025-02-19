@@ -35,6 +35,8 @@ http://192.168.2.1:4022/udp/225.1.2.194:5002
 http://192.168.2.1:4022/udp/225.1.2.237:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CCTV17.png",CCTV17
 http://192.168.2.1:4022/udp/225.1.2.52:5002
+#EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/欢笑剧场.png",欢笑剧场
+http://192.168.2.1:4022/udp/225.1.2.206:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/风云足球.png",风云足球
 http://192.168.2.1:4022/udp/225.1.2.168:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/魅力足球.png",魅力足球
@@ -61,7 +63,7 @@ http://192.168.2.1:4022/udp/225.1.2.176:5002
 http://192.168.2.1:4022/udp/225.1.2.170:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CHC家庭影院.png",CHC家庭影院
 http://192.168.2.1:4022/udp/225.1.1.213:5002
-#EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CHC电影.png",CHC电影
+#EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CHC高清电影.png",CHC高清电影
 http://192.168.2.1:4022/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-logo="http://live.fanmingming.cn/tv/CHC动作电影.png",CHC动作电影
 http://192.168.2.1:4022/udp/225.1.1.215:5002
